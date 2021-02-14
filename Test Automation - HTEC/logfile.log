@@ -1,0 +1,450 @@
+2021-02-13 18:03:11,714 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:03:11,714 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Forgot Password       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:03:11,714 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:03:29,914 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:03:29,919 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Forgot Password       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:03:29,919 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:03:56,648 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:04:00,230 INFO  [Log] Entered Email 
+2021-02-13 18:04:03,807 INFO  [Log] Entered Password 
+2021-02-13 18:04:07,378 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:04:16,508 INFO  [Log] Edit First Use Case 
+2021-02-13 18:04:30,774 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:04:32,784 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:04:32,784 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:04:32,784 INFO  [Log] ============= 
+2021-02-13 18:04:51,135 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:04:51,136 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Forgot Password       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:04:51,136 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:05:17,609 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:05:21,231 INFO  [Log] Entered Email 
+2021-02-13 18:05:24,826 INFO  [Log] Entered Password 
+2021-02-13 18:05:28,353 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:05:37,631 INFO  [Log] Edit First Use Case 
+2021-02-13 18:05:48,202 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:05:48,203 INFO  [Log] Test scenario is in status failed 
+2021-02-13 18:05:48,203 INFO  [Log] ============= 
+2021-02-13 18:07:46,039 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:07:46,039 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Forgot Password       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:07:46,039 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:08:12,483 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:08:16,120 INFO  [Log] Entered Email 
+2021-02-13 18:08:19,807 INFO  [Log] Entered Password 
+2021-02-13 18:08:23,376 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:08:32,617 INFO  [Log] Edit First Use Case 
+2021-02-13 18:08:46,733 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:08:48,744 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:08:48,745 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:08:48,745 INFO  [Log] ============= 
+2021-02-13 18:09:14,813 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:09:14,813 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Forgot Password       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:09:14,813 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:09:42,860 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:09:46,525 INFO  [Log] Entered Email 
+2021-02-13 18:09:50,130 INFO  [Log] Entered Password 
+2021-02-13 18:09:53,708 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:10:02,998 INFO  [Log] Edit First Use Case 
+2021-02-13 18:10:17,136 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:10:19,157 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:10:19,157 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:10:19,157 INFO  [Log] ============= 
+2021-02-13 18:13:13,149 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:13:13,149 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Forgot Password       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:13:13,149 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:13:48,675 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:13:48,676 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Forgot Password       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:13:48,676 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:14:15,001 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:14:18,709 INFO  [Log] Entered Email 
+2021-02-13 18:14:22,266 INFO  [Log] Entered Password 
+2021-02-13 18:14:25,838 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:14:35,118 INFO  [Log] Edit First Use Case 
+2021-02-13 18:14:35,554 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:14:38,975 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:14:40,977 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:14:40,977 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:14:40,977 INFO  [Log] ============= 
+2021-02-13 18:34:09,652 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:34:09,657 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Use Cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:34:09,657 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:34:36,078 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:34:39,738 INFO  [Log] Entered Email 
+2021-02-13 18:34:43,362 INFO  [Log] Entered Password 
+2021-02-13 18:34:46,975 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:34:56,287 INFO  [Log] Edit First Use Case 
+2021-02-13 18:34:56,745 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:34:57,087 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:34:57,480 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:34:57,839 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:34:58,237 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:34:58,697 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:34:58,960 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:34:59,263 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:35:02,755 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:35:08,338 INFO  [Log] Edit First Use Case 
+2021-02-13 18:35:08,715 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:35:08,999 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:35:09,297 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:35:09,609 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:35:09,924 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:35:10,216 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:35:10,473 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:35:10,761 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:35:14,273 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:36:32,171 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:36:32,171 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Use Cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:36:32,171 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:37:16,671 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:37:16,671 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Use Cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:37:16,671 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:37:43,220 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:37:46,858 INFO  [Log] Entered Email 
+2021-02-13 18:37:50,448 INFO  [Log] Entered Password 
+2021-02-13 18:37:54,027 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:38:03,399 INFO  [Log] Edit First Use Case 
+2021-02-13 18:38:03,851 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:38:04,165 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:38:04,495 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:38:04,826 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:38:05,252 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:38:05,678 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:38:06,001 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:38:06,273 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:38:09,756 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:38:15,321 INFO  [Log] Edit First Use Case 
+2021-02-13 18:38:15,731 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:38:16,013 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:38:16,322 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:38:16,599 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:38:16,900 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:38:17,192 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:38:17,469 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:38:17,749 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:38:21,201 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:38:26,833 INFO  [Log] Edit Third Use Case 
+2021-02-13 18:38:27,188 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:38:27,463 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:38:27,788 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:38:28,122 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:38:28,420 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:38:28,708 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:38:28,994 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:38:29,281 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:38:32,792 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:38:38,444 INFO  [Log] Edit Fourth Use Case 
+2021-02-13 18:38:38,808 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:38:39,089 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:38:39,387 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:38:39,682 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:38:39,961 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:38:40,258 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:38:40,534 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:38:40,811 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:38:44,322 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:38:46,331 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:38:46,331 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:38:46,331 INFO  [Log] ============= 
+2021-02-13 18:39:51,648 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:39:51,648 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Use Cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:39:51,648 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:40:18,275 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:40:21,905 INFO  [Log] Entered Email 
+2021-02-13 18:40:25,469 INFO  [Log] Entered Password 
+2021-02-13 18:40:29,037 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:40:38,269 INFO  [Log] Edit First Use Case 
+2021-02-13 18:40:38,751 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:40:39,096 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:40:39,422 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:40:39,774 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:40:40,195 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:40:40,633 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:40:40,965 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:40:41,268 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:40:44,717 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:40:50,226 INFO  [Log] Edit Second Use Case 
+2021-02-13 18:40:50,600 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:40:50,882 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:40:51,166 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:40:51,450 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:40:51,753 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:40:52,040 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:40:52,339 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:40:52,637 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:40:56,154 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:41:01,640 INFO  [Log] Edit Third Use Case 
+2021-02-13 18:41:02,003 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:41:02,273 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:41:02,536 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:41:02,836 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:41:03,125 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:41:03,390 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:41:03,684 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:41:03,948 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:41:07,427 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:41:13,048 INFO  [Log] Edit Fourth Use Case 
+2021-02-13 18:41:13,379 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:41:13,630 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:41:13,907 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:41:14,160 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:41:14,494 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:41:14,839 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:41:15,118 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:41:15,397 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:41:18,809 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:41:20,811 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:41:20,811 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:41:20,811 INFO  [Log] ============= 
+2021-02-13 18:41:59,011 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:41:59,011 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Use Cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:41:59,011 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:42:25,492 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:42:29,150 INFO  [Log] Entered Email 
+2021-02-13 18:42:32,770 INFO  [Log] Entered Password 
+2021-02-13 18:42:36,294 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:42:45,548 INFO  [Log] Edit First Use Case 
+2021-02-13 18:42:46,078 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:42:46,441 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:42:46,825 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:42:47,198 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:42:47,600 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:42:48,016 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:42:48,330 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:42:48,631 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:42:52,073 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:42:57,630 INFO  [Log] Edit Second Use Case 
+2021-02-13 18:42:58,103 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:42:58,392 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:42:58,705 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:42:58,996 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:42:59,304 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:42:59,602 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:42:59,887 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:43:00,191 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:43:03,701 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:43:09,313 INFO  [Log] Edit Third Use Case 
+2021-02-13 18:43:09,732 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:43:09,977 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:43:10,264 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:43:10,549 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:43:10,859 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:43:11,198 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:43:11,480 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:43:11,763 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:43:15,243 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:43:20,823 INFO  [Log] Edit Fourth Use Case 
+2021-02-13 18:43:21,285 INFO  [Log] Edited Title with number of characters 
+2021-02-13 18:43:21,551 INFO  [Log] Edited Description with number of characters 
+2021-02-13 18:43:21,826 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 18:43:22,095 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 18:43:22,376 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 18:43:22,650 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 18:43:22,913 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 18:43:23,186 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 18:43:26,672 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:43:28,680 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:43:28,680 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:43:28,680 INFO  [Log] ============= 
+2021-02-13 18:43:48,516 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:43:48,516 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Create new use cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:43:48,516 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:44:16,500 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:44:20,136 INFO  [Log] Entered Email 
+2021-02-13 18:44:23,728 INFO  [Log] Entered Password 
+2021-02-13 18:44:27,295 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:44:37,685 INFO  [Log] Entered Title 
+2021-02-13 18:45:06,921 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:45:06,921 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Create new use cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:45:06,921 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:45:35,485 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:45:39,173 INFO  [Log] Entered Email 
+2021-02-13 18:45:42,744 INFO  [Log] Entered Password 
+2021-02-13 18:45:46,286 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:45:56,661 INFO  [Log] Entered Title 
+2021-02-13 18:46:00,376 INFO  [Log] Entered Description 
+2021-02-13 18:46:04,075 INFO  [Log] Entered Expected Result 
+2021-02-13 18:46:07,615 INFO  [Log] Clicked on Toggle for automated test 
+2021-02-13 18:46:11,587 INFO  [Log] Entered Case Steps 
+2021-02-13 18:46:15,106 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:46:17,110 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:46:17,110 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:46:17,110 INFO  [Log] ============= 
+2021-02-13 18:46:18,020 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:46:18,020 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Create new use cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:46:18,020 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:46:42,223 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:46:45,823 INFO  [Log] Entered Email 
+2021-02-13 18:46:49,389 INFO  [Log] Entered Password 
+2021-02-13 18:46:52,863 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:47:03,273 INFO  [Log] Entered Title 
+2021-02-13 18:47:06,999 INFO  [Log] Entered Description 
+2021-02-13 18:47:10,626 INFO  [Log] Entered Expected Result 
+2021-02-13 18:47:14,148 INFO  [Log] Clicked on Toggle for automated test 
+2021-02-13 18:47:18,216 INFO  [Log] Entered Case Steps 
+2021-02-13 18:47:21,650 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:47:23,660 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:47:23,660 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:47:23,660 INFO  [Log] ============= 
+2021-02-13 18:47:24,625 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:47:24,625 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Create new use cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:47:24,625 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:47:48,924 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:47:52,541 INFO  [Log] Entered Email 
+2021-02-13 18:47:56,146 INFO  [Log] Entered Password 
+2021-02-13 18:47:59,670 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:48:10,138 INFO  [Log] Entered Title 
+2021-02-13 18:48:13,800 INFO  [Log] Entered Description 
+2021-02-13 18:48:17,370 INFO  [Log] Entered Expected Result 
+2021-02-13 18:48:20,821 INFO  [Log] Clicked on Toggle for automated test 
+2021-02-13 18:48:25,124 INFO  [Log] Entered Case Steps 
+2021-02-13 18:48:28,593 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:48:30,598 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:48:30,599 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:48:30,599 INFO  [Log] ============= 
+2021-02-13 18:48:35,467 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:48:35,467 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Create new use cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:48:35,467 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:49:01,591 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:49:05,208 INFO  [Log] Entered Email 
+2021-02-13 18:49:08,763 INFO  [Log] Entered Password 
+2021-02-13 18:49:12,325 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:49:22,869 INFO  [Log] Entered Title 
+2021-02-13 18:49:26,586 INFO  [Log] Entered Description 
+2021-02-13 18:49:30,135 INFO  [Log] Entered Expected Result 
+2021-02-13 18:49:33,709 INFO  [Log] Clicked on Toggle for automated test 
+2021-02-13 18:49:37,960 INFO  [Log] Entered Case Steps 
+2021-02-13 18:49:41,370 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:49:43,380 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:49:43,380 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:49:43,380 INFO  [Log] ============= 
+2021-02-13 18:49:48,260 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:49:48,260 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Use Cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:49:48,261 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:50:14,328 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:50:18,035 INFO  [Log] Entered Email 
+2021-02-13 18:50:21,640 INFO  [Log] Entered Password 
+2021-02-13 18:50:25,192 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:54:43,829 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:54:43,829 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Create new use cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:54:43,829 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:55:10,489 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:55:14,161 INFO  [Log] Entered Email 
+2021-02-13 18:55:17,797 INFO  [Log] Entered Password 
+2021-02-13 18:55:21,304 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:55:31,733 INFO  [Log] Entered Title 
+2021-02-13 18:55:35,455 INFO  [Log] Entered Description 
+2021-02-13 18:55:39,084 INFO  [Log] Entered Expected Result 
+2021-02-13 18:55:42,695 INFO  [Log] Clicked on Toggle for automated test 
+2021-02-13 18:55:46,566 INFO  [Log] Entered Case Steps 
+2021-02-13 18:55:50,076 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:55:52,089 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:55:52,089 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:55:52,089 INFO  [Log] ============= 
+2021-02-13 18:55:52,999 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:55:52,999 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Create new use cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:55:52,999 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:56:17,365 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:56:20,916 INFO  [Log] Entered Email 
+2021-02-13 18:56:24,435 INFO  [Log] Entered Password 
+2021-02-13 18:56:27,983 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:56:38,418 INFO  [Log] Entered Title 
+2021-02-13 18:56:42,016 INFO  [Log] Entered Description 
+2021-02-13 18:56:45,612 INFO  [Log] Entered Expected Result 
+2021-02-13 18:56:49,114 INFO  [Log] Clicked on Toggle for automated test 
+2021-02-13 18:56:53,306 INFO  [Log] Entered Case Steps 
+2021-02-13 18:56:56,799 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:56:58,819 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:56:58,819 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:56:58,819 INFO  [Log] ============= 
+2021-02-13 18:57:03,702 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:57:03,703 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Create new use cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:57:03,703 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:57:28,276 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:57:31,846 INFO  [Log] Entered Email 
+2021-02-13 18:57:35,386 INFO  [Log] Entered Password 
+2021-02-13 18:57:38,888 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:57:49,353 INFO  [Log] Entered Title 
+2021-02-13 18:57:53,009 INFO  [Log] Entered Description 
+2021-02-13 18:57:56,612 INFO  [Log] Entered Expected Result 
+2021-02-13 18:58:00,091 INFO  [Log] Clicked on Toggle for automated test 
+2021-02-13 18:58:04,467 INFO  [Log] Entered Case Steps 
+2021-02-13 18:58:07,930 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:58:09,936 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:58:09,936 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:58:09,936 INFO  [Log] ============= 
+2021-02-13 18:58:14,783 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:58:14,783 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Create new use cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:58:14,783 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:58:38,698 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:58:42,385 INFO  [Log] Entered Email 
+2021-02-13 18:58:46,059 INFO  [Log] Entered Password 
+2021-02-13 18:58:49,641 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:59:00,071 INFO  [Log] Entered Title 
+2021-02-13 18:59:03,698 INFO  [Log] Entered Description 
+2021-02-13 18:59:07,335 INFO  [Log] Entered Expected Result 
+2021-02-13 18:59:10,830 INFO  [Log] Clicked on Toggle for automated test 
+2021-02-13 18:59:15,076 INFO  [Log] Entered Case Steps 
+2021-02-13 18:59:18,559 INFO  [Log] Clicked on Submit Button 
+2021-02-13 18:59:20,568 INFO  [Log] AFTER scenario is started 
+2021-02-13 18:59:20,568 INFO  [Log] Test scenario is in status passed 
+2021-02-13 18:59:20,568 INFO  [Log] ============= 
+2021-02-13 18:59:25,423 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:59:25,423 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Edit Use Cases       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-13 18:59:25,423 INFO  [Log] **************************************************************************************** 
+2021-02-13 18:59:51,607 INFO  [Log] Clicked on Login Button 
+2021-02-13 18:59:55,306 INFO  [Log] Entered Email 
+2021-02-13 18:59:58,868 INFO  [Log] Entered Password 
+2021-02-13 19:00:02,327 INFO  [Log] Clicked on Submit Button 
+2021-02-13 19:00:11,589 INFO  [Log] Edit First Use Case 
+2021-02-13 19:00:12,238 INFO  [Log] Edited Title with number of characters 
+2021-02-13 19:00:12,643 INFO  [Log] Edited Description with number of characters 
+2021-02-13 19:00:12,953 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 19:00:13,273 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 19:00:13,589 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 19:00:13,908 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 19:00:14,234 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 19:00:14,550 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 19:00:18,103 INFO  [Log] Clicked on Submit Button 
+2021-02-13 19:00:23,733 INFO  [Log] Edit Second Use Case 
+2021-02-13 19:00:24,112 INFO  [Log] Edited Title with number of characters 
+2021-02-13 19:00:24,405 INFO  [Log] Edited Description with number of characters 
+2021-02-13 19:00:24,720 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 19:00:25,021 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 19:00:25,344 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 19:00:25,661 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 19:00:25,958 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 19:00:26,231 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 19:00:29,719 INFO  [Log] Clicked on Submit Button 
+2021-02-13 19:00:35,288 INFO  [Log] Edit Third Use Case 
+2021-02-13 19:00:35,676 INFO  [Log] Edited Title with number of characters 
+2021-02-13 19:00:35,927 INFO  [Log] Edited Description with number of characters 
+2021-02-13 19:00:36,212 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 19:00:36,517 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 19:00:36,807 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 19:00:37,110 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 19:00:37,371 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 19:00:37,657 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 19:00:41,105 INFO  [Log] Clicked on Submit Button 
+2021-02-13 19:00:46,641 INFO  [Log] Edit Fourth Use Case 
+2021-02-13 19:00:47,036 INFO  [Log] Edited Title with number of characters 
+2021-02-13 19:00:47,276 INFO  [Log] Edited Description with number of characters 
+2021-02-13 19:00:47,574 INFO  [Log] Edited Expected Result with number of characters 
+2021-02-13 19:00:47,856 INFO  [Log] Edited First Step with number of characters 
+2021-02-13 19:00:48,145 INFO  [Log] Edited Second Step with number of characters 
+2021-02-13 19:00:48,429 INFO  [Log] Edited Third Step with number of characters 
+2021-02-13 19:00:48,693 INFO  [Log] Edited Fourth Step with number of characters 
+2021-02-13 19:00:48,962 INFO  [Log] Edited Fifth Step with number of characters 
+2021-02-13 19:00:52,408 INFO  [Log] Clicked on Submit Button 
+2021-02-13 19:00:54,423 INFO  [Log] AFTER scenario is started 
+2021-02-13 19:00:54,423 INFO  [Log] Test scenario is in status passed 
+2021-02-13 19:00:54,423 INFO  [Log] ============= 
+2021-02-14 10:13:12,772 INFO  [Log] **************************************************************************************** 
+2021-02-14 10:13:12,772 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 Login with correct email and password       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-14 10:13:12,772 INFO  [Log] **************************************************************************************** 
+2021-02-14 10:13:41,210 INFO  [Log] Clicked on Login Button 
+2021-02-14 10:13:44,807 INFO  [Log] Entered Email 
+2021-02-14 10:13:48,308 INFO  [Log] Entered Password 
+2021-02-14 10:13:51,784 INFO  [Log] Clicked on Submit Button 
+2021-02-14 10:13:59,520 INFO  [Log] Clicked on Logout Button 
+2021-02-14 10:13:59,521 INFO  [Log] AFTER scenario is started 
+2021-02-14 10:13:59,522 INFO  [Log] Test scenario is in status passed 
+2021-02-14 10:13:59,522 INFO  [Log] ============= 
